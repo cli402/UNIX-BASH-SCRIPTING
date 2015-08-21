@@ -1,0 +1,14 @@
+total 52K
+-rw-rw-r-- 1 chengwei chengwei   21 Aug 17 13:00 a.py
+drwxrwxr-x 2 chengwei chengwei 4.0K Aug 17 20:04 EE122
+-rwxrw-r-- 1 chengwei chengwei  834 Aug 17 19:22 feed.sh
+drwxrwxr-x 2 chengwei chengwei 4.0K Jul 25 19:37 Linux System introduction
+drwxrwxr-x 2 chengwei chengwei 4.0K Aug 17 20:19 Networking
+-rwxrw-r-- 1 chengwei chengwei  683 Aug 17 19:16 penguin.sh
+drwxrwxr-x 3 chengwei chengwei 4.0K May 11 00:18 Python
+-rwxrw-r-- 1 chengwei chengwei  393 Aug 17 19:01 s1.sh
+drwxrwxr-x 7 chengwei chengwei 4.0K Aug 17 11:10 Spring 2015
+-rw-rw-r-- 1 chengwei chengwei  103 Aug 17 16:13 test.awk
+drwxrwxr-x 4 chengwei chengwei 4.0K Aug 17 20:35 UNIX SYSTEM
+drwxrwxr-x 3 chengwei chengwei 4.0K Apr 11 00:23 Untitled Folder
+-rw-rw-r-- 1 chengwei chengwei  243 Aug 17 21:54 ws

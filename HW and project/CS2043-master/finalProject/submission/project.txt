@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Movies.com Top 10 Box Office]]></title>
+    <link>http://www.movies.com</link>
+    <description><![CDATA[Find out which movies were the weekend's winners.]]></description>
+    <language>en-us</language>
+    <copyright>Copyright 2015 Movies.com</copyright>
+    <pubDate>Tue, 18 Aug 2015 00:00:00 GMT</pubDate>
+    <ttl>10080</ttl>
+    <image>
+      <url>http://images.fandango.com/MDCSite/images/global/moviescomrss.png</url>
+      <title><![CDATA[Movies.com Top 10 Box Office]]></title>
+      <link>http://www.movies.com</link>
+    </image>
+    <item>
+      <title><![CDATA[1. Straight Outta Compton - $60.2M]]></title>
+      <link>http://www.movies.com/straight-outta-compton/m70155?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Entrenched in the racial tumult of Los Angeles in the mid-1980's, a group of aspiring rappers banded together to revolutionize the global consumption of hip-hop and popular culture. NWA was born out of racial frustration and the disadvantaged economics of their South Central neighborhood. F. Gary Gray directs this biopic about the rise to stardom for the act that earned the moniker of "The World's Most Dangerous Group", featuring Ice Cube's son O'Shea Jackson Jr. playing the role of his father, Corey Hawkins as Dr. Dre, and Jason Mitchell as the late Eazy-E. ~ Daniel Gelb, Rovi <br /> <br /> <a href="http://ad.doubleclick.net/jump/movies.dart/rss;dcopt=ist;env=prod;sz=300x100;" target="_blank"> <img src="http://ad.doubleclick.net/ad/movies.dart/rss;dcopt=ist;env=prod;sz=300x100;" border="0" alt="" /> </a>]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/180080/images/masterrepository/fandango/180080/straight-outta-compton-poster.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[2. Mission: Impossible - Rogue Nation - $17.19M]]></title>
+      <link>http://www.movies.com/mission-impossible---rogue-nation/m70175?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Ethan Hunt (Tom Cruise) and his teammates reunite for this pulse-pounding sequel, in which they attempt to take down a secret international organization known as the Syndicate--highly skilled ex-IMF agents who are intent on bringing down their former outfit. Christopher McQuarrie directs this new entry in the Mission Impossible franchise, with Jeremy Renner, Alec Baldwin, and Simon Pegg co-staring. ~ Daniel Gelb, Rovi]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/179981/images/masterrepository/fandango/179981/mi5_teaser 1-sht_4_frame.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[3. The Man From U.N.C.L.E. - $13.42M]]></title>
+      <link>http://www.movies.com/man-from-u-n-c-l-e-/m70174?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Set against the backdrop of the early 1960s, at the height of the Cold War, "The Man From U.N.C.L.E." centers on CIA agent Solo and KGB agent Kuryakin. Forced to put aside longstanding hostilities, the two team up on a joint mission to stop a mysterious international criminal organization, which is bent on destabilizing the fragile balance of power through the proliferation of nuclear weapons and technology. The duo's only lead is the daughter of a vanished German scientist, who is the key to infiltrating the criminal organization, and they must race against time to find him and prevent a worldwide catastrophe.]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/174856/images/masterrepository/fandango/183847/manfromuncleposterimax.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[4. Fantastic Four - $8.17M]]></title>
+      <link>http://www.movies.com/fantastic-four/m70159?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Brilliant scientist Reed Richards builds a device that allows users to teleport to an alternate dimension, but an experiment involving it goes wrong and leaves him and his three teammates with unusual superpowers. The quartet are then forced to work together to battle an enemy from their past. This reboot of the iconic Marvel superhero team stars Miles Teller as Richards (who becomes Mr. Fantastic, able to bend and stretch his body into impossible shapes), Michael B. Jordan as Johnny Storm (aka the Human Torch, whose body can erupt in flames), Kate Mara as Sue Storm (aka the Invisible Woman -- no explanation needed), and Jamie Bell as Ben Grimm (who is transformed into the rock monster known as The Thing). Directed by Josh Trank, who previously worked with Jordan on the superhero film Chronicle. ~ Jack Rodgers, Rovi]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/179982/images/masterrepository/fandango/179982/fantasticfourposternew2.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[5. The Gift (2015) - $6.51M]]></title>
+      <link>http://www.movies.com/gift-2015/m70678?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Can you really go through life having never wronged anyone? Even if you are unaware of how, or when, and even who you may have wronged….chances are there is someone out there who won’t ever forget it…or you. Simon (Jason Bateman) and Robyn (Rebecca Hall) are a young married couple whose life is going just as planned until a chance encounter with an acquaintance from Simon’s high school sends their world into a harrowing tailspin. Simon doesn’t recognize Gordo (Joel Edgerton) at first, but after a seemingly coincidental series of encounters proves troubling, a horrifying secret from their past is uncovered after nearly 20 years. As Robyn learns the unsettling truth about what happened between Simon and Gordo, she starts to question: how well do we really know the people closest to us, and are past bygones ever really bygones?]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/182360/images/masterrepository/fandango/182360/thegiftposter.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[6. Ant-Man - $5.49M]]></title>
+      <link>http://www.movies.com/ant-man/m67903?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[The next evolution of the Marvel Cinematic Universe brings a founding member of The Avengers to the big screen for the first time with Marvel Studios’ “Ant-Man.” Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/160348/images/masterrepository/fandango/160348/bf_payoff_1-sht_v8_sm.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[7. Vacation - $5.18M]]></title>
+      <link>http://www.movies.com/vacation/m70539?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Rusty Griswold, the youngest child from 1983's National Lampoon's Vacation is all grown up with a family of his own and fond childhood memories of a certain family road trip to Walley World, "America's Favorite Family Fun Park." Like his father, Clark (Chevy Chase), Rusty wants to forge closer bonds with his own family - wife Debbie (Christina Applegate) and boys James and Kevin (Skyler Gisondo and Steele Stebbins) - so he buys a souped-up Albanian van and convinces them to set off on their own crazy cross-country jaunt to Walley World. Directed by John Francis Daley and Jonathan M. Goldstein. ~ Erin Demers, Rovi]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/179884/images/masterrepository/fandango/179884/vacationposter.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[8. Minions - $5.15M]]></title>
+      <link>http://www.movies.com/minions/m70241?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[The story of Universal Pictures and Illumination Entertainment’s Minions begins at the dawn of time.  Starting as single-celled yellow organisms, Minions evolve through the ages, perpetually serving the most despicable of masters.  Continuously unsuccessful at keeping these masters—from T. rex to Napoleon—the Minions find themselves without someone to serve and fall into a deep depression. But one Minion named Kevin has a plan, and he—alongside teenage rebel Stuart and lovable little Bob—ventures out into the world to find a new evil boss for his brethren to follow. The trio embarks upon a thrilling journey that ultimately leads them to their next potential master, Scarlet Overkill (Academy Award® winner Sandra Bullock), the world’s first-ever female super-villain.  They travel from frigid Antarctica to 1960s New York City, ending in mod London, where they must face their biggest challenge to date: saving all of Minionkind...from annihilation.]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/178100/images/masterrepository/fandango/178100/minionsposter2.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[9. Ricki and the Flash - $4.56M]]></title>
+      <link>http://www.movies.com/ricki-flash/m70324?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Three-time Academy Award® winner Meryl Streep goes electric and takes on a whole new gig – a hard-rocking singer/guitarist – for Oscar®-winning director Jonathan Demme and Academy Award®-winning screenwriter Diablo Cody in the uplifting comedy Ricki and the Flash. In a film loaded with music and live performance, Streep stars as Ricki, a guitar heroine who gave up everything for her dream of rock-and-roll stardom, but is now returning home to make things right with her family.  Streep stars opposite her real-life daughter Mamie Gummer, who plays her fictional daughter; Rick Springfield, who takes on the role of a Flash member in love with Ricki; and Kevin Kline, who portrays Ricki’s long-suffering ex-husband.]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/180420/images/masterrepository/fandango/180420/rickiandtheflashposter.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+    <item>
+      <title><![CDATA[10. Trainwreck - $3.84M]]></title>
+      <link>http://www.movies.com/trainwreck/m70272?wssac=123&amp;wssaffid=TTBO</link>
+      <description><![CDATA[Since she was a little girl, it’s been drilled into Amy’s (Schumer) head by her rascal of a dad (Colin Quinn) that monogamy isn’t realistic.  Now a magazine writer, Amy lives by that credo—enjoying what she feels is an uninhibited life free from stifling, boring romantic commitment—but in actuality, she’s kind of in a rut.  When she finds herself starting to fall for the subject of the new article she’s writing, a charming and successful sports doctor named Aaron Conners (Bill Hader), Amy starts to wonder if other grown-ups, including this guy who really seems to like her, might be on to something.]]></description>
+      <category>Movies.com Top 10 Box Office</category>
+      <enclosure url="http://images.fandango.com//ImageRenderer/128/190/mdcwebsite/images/global/still_looking128x190.jpg/180159/images/masterrepository/fandango/180159/trainwreckposter.jpg" length="0" type="image/png" />
+      <pubDate>Tue, 18 Aug 2015 08:00:00 GMT</pubDate>
+      <source url="http://www.movies.com">Movies.com Top 10 Box Office</source>
+    </item>
+  </channel>
+</rss>
